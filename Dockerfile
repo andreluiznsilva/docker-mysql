@@ -1,6 +1,6 @@
-# Mysql 5.5
+# Mysql 5.7
 
-FROM mysql:5.5
+FROM mysql:5.7
 
 MAINTAINER Andre Nascimento <andreluiznsilva@gmail.com>
 
